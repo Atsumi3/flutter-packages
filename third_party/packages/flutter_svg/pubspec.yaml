@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.0.0
+  universal_io: ^2.2.2
   vector_graphics: ^1.1.13
   vector_graphics_codec: ^1.1.11+1
   vector_graphics_compiler: ^1.1.14
